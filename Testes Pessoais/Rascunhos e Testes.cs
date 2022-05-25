@@ -1,5 +1,7 @@
-﻿/*
-// See https://aka.ms/new-console-template for more information
+﻿Console.Write("Olá");
+
+/*
+
 Console.WriteLine("Hello, World!");
 Console.ReadLine();
 
