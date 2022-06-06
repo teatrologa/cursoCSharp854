@@ -53,7 +53,7 @@ return;
 // Exercício da música dos 5 patinhos
 //REFAZER O EXERCÍCIOS QUANDO DER
 
-int[] arrayPatinhos = new int[5];
+int [] arrayPatinhos = new int[5];
 
 /*
  * int [] array Patinhos =  { 1, 2, 3, 4, 5};
